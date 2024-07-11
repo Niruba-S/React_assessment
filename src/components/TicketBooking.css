@@ -1,0 +1,33 @@
+.ticket-booking {
+    padding: 20px;
+  }
+  
+  .ticket-booking h1 {
+    margin-bottom: 20px;
+  }
+  
+  .ticket-booking label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .ticket-booking input[type="number"] {
+    padding: 5px;
+    width: 50px;
+    margin-left: 10px;
+  }
+  
+  .ticket-booking button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .ticket-booking button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,23 @@
+.event-list {
+    padding: 20px;
+  }
+  
+  .event-list h1 {
+    margin-bottom: 20px;
+  }
+  
+  .event-list ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .event-list li {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
